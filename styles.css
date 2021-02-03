@@ -1,0 +1,35 @@
+body{
+    background: lightgray;  
+    margin: 0;
+    font-family: Arial; }
+div{
+    box-sizing: border-box;}
+header{
+    background: white;
+    padding: 10px;}
+header h1{
+    margin: 0;
+    text-align: center;}
+div.post img{
+    width: 100%}
+div.post .post-header{
+    display: inline-block; 
+    width: 80%;}
+div.post .span{
+    display: inline-block; 
+    width: 19%;
+    text-align: right;
+    padding: 10px;
+    color: gray;}
+div.post{
+    background: white;
+    margin-top: 30px;
+    margin-bottom: 10px;}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0%;}
+div.container{
+    width: 600px; 
+    margin: auto;}
+img{
+    height: 400px;}
